@@ -1,0 +1,224 @@
+
+@media (max-width: 1400px) {
+
+
+    .education__content{
+
+        flex-direction: column;
+
+        align-items: center;
+
+    }
+
+    .educationRight{
+
+        width: 100%;
+
+    }
+
+    .educationRight__link{
+
+        width: 49%;
+
+        height: auto;
+
+    }
+
+    .educationRight__item{
+
+        width: 100%;
+
+        height: 48rem;
+
+    }
+
+    .educationRight__image{
+
+        height: auto;
+
+        width: 100%;
+    }
+
+
+}
+@media (max-width: 1200px) {
+
+    .education{
+
+    }
+
+    .education__header{
+
+    }
+
+    .education__button{
+
+    }
+
+    .education__title{
+
+    }
+
+    .education__content{
+
+    }
+
+    .educationRight{
+
+    }
+
+    .educationRight__link{
+
+    }
+
+    .educationRight__item{
+
+    }
+
+    .educationRight__image{
+
+    }
+
+    .educationRight__texts{
+
+    }
+
+    .educationRight__date{
+
+    }
+
+    .educationRight__title{
+
+    }
+
+    .educationLeft{
+
+    }
+
+    .educationLeft__link{
+
+    }
+
+    .educationLeft__item{
+
+    }
+
+    .educationLeft__image{
+
+    }
+
+    .educationLeft__texts{
+
+    }
+
+    .educationLeft__date{
+
+    }
+
+    .educationLeft__title{
+
+    }
+
+    .educationLeft__description{
+
+    }
+
+    .footer__content {
+        flex-direction: column;
+        width: 100%;
+    }
+    .footerRight{
+        order: 2;
+    }
+    .footerLeft{
+        order: 1;
+        align-items: center;
+    }
+    .footerRight__text {
+        width: 23rem;
+    }
+
+    .footerLeft__icons {
+
+        margin-top: 5rem;
+    }
+    .footer__content{
+
+        gap: 2rem;
+
+    }
+
+
+    .footerRight__text{
+
+        margin: 0 auto;
+
+    }
+
+    .footerRight__images{
+
+        margin: 0 auto;
+
+    }
+
+}
+
+
+@media (max-width: 992px) {
+    .navbar__items{
+        display: none;
+    }
+    .navbar__hamburgerButton{
+        display: flex;
+    }
+    .navbar__blackBackground{
+        display: block;
+    }
+    .navbar__itemsMobile{
+        display: flex;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    /*.educationLeft__image {*/
+    /*    height: 46.2%;*/
+    /*}*/
+    /*.educationRight__item, .educationRight__link {*/
+    /*    width: auto;*/
+    /*    height: auto;*/
+    /*}*/
+}
+
+@media (max-width: 576px) {
+    .header__items{
+        padding: 2rem 0;
+    }
+    .mainHeader__description{
+        width: 28rem;
+    }
+    .mainHeader__button{
+        padding: 1.2rem;
+        font-size: 1.3rem;
+    }
+    .educationLeft__texts {
+        padding: 2.5rem 3rem;
+    }
+    .footerRight__images {
+        display: none;
+    }
+    .footerRight__copyRight {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 400px) {
+
+
+}
+
+
+@media (min-width: 1400px) {
+
+}
